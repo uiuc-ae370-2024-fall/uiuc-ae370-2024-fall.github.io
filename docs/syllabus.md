@@ -9,7 +9,7 @@ nav_order: 3
 
 Welcome to the beautiful world of numerical methods! This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and other related fields. Numerical methods are the centerpiece of applications like large-scale simulation of complex physical phenomena, Google's Page Rank algorithms, font design, and weather prediction (to name just a few!).  Our focus will be on how some key numerical methods work (and fail), and on how to implement these methods using code. That is, our learning outcomes are to both **understand** the mathematical properties (accuracy, stability, and general appropriateness) of a given method and be able to **implement** the method with code.
 
-We hope you enjoy your exploration into this beautiful and important subject! Here are some (of many) exciting example applications of numerical methods: TODO
+We hope you enjoy your exploration into this beautiful and important subject! Here are some (of many) exciting example applications of numerical methods.
 
 **Pre-requisites:** Credit or concurrent registration in CS 101 (or similar course), MATH 221, MATH 231, and MATH 241.
 

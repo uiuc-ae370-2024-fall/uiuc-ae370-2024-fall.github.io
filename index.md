@@ -6,7 +6,7 @@ nav_order: 1
 
 # AE 370: Aerospace Numerical Methods
 
-**University of Illinois at Urbana-Champaign, Fall 2023**
+**University of Illinois at Urbana-Champaign, Fall 2024**
 
 **Instructor:** Huy Tran
 

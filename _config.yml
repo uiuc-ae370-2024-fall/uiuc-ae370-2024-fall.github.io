@@ -37,15 +37,15 @@ theme: just-the-docs
 # Aux links for upper right navigation link
 aux_links:
   "Campuswire":
-    - "https://campuswire.com/c/G7D9655C9/feed"
+    - "https://campuswire.com/c/GBA92822C/feed"
   "GitHub":
-    - "https://github.com/uiuc-ae370-2023-fall"
+    - "https://github.com/uiuc-ae370-2024-fall/"
   "GitHub Classroom":
-    - "https://classroom.github.com/classrooms/142352779-uiuc-ae370-2023-fall"
+    - "https://classroom.github.com/classrooms/178935782-uiuc-ae370-2024-fall"
   "Gradescope":
-    - "https://www.gradescope.com/courses/574378"
+    - "https://www.gradescope.com/courses/832548"
   "Lectures":
-    - "https://drive.google.com/drive/folders/15o-29HqD-i5DJmw_esA9Iz0TDOPIghiV?usp=sharing"
+    - "https://drive.google.com/drive/folders/1FQCL-mq2wfCulesmGvdpRJFpN-bopYvh?usp=sharing"
   # "Media Space":
   #   - "https://mediaspace.illinois.edu/channel/AE+598+2023+Spring/286337372"
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template

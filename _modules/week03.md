@@ -3,7 +3,8 @@ title: Week 3
 ---
 
 Mon Sep 4
-: No Class (Labor Day)
+: **Lab**{: .label .label-purple }[HW 2: Monomial and Lagrange Interpolation]()
+: **HW 2 ASSIGNED**{: .label .label-yellow }**HW 1 due**{: .label .label-red }**Quiz 2 Due**{: .label .label-red }
 
 Wed Sep 6
 : **LEC 6**{: .label .label-grey }Cubic Splines

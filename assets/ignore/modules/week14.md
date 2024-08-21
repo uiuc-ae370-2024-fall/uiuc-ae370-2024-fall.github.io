@@ -2,12 +2,12 @@
 title: Week 14 (Fall Break)
 ---
 
-Mon Nov 21
+Mon Nov 20
 : No Class (Fall Break)
 
-Wed Nov 23
+Wed Nov 22
 : No Class (Fall Break)
 
 
-Fri Nov 25
+Fri Nov 24
 : No Class (Fall Break)

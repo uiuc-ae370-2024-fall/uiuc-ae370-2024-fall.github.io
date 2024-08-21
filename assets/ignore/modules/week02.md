@@ -2,14 +2,14 @@
 title: Week 2
 ---
 
-Mon Aug 29
-: **LEC 4**{: .label .label-grey }[Basis Functions]({{ site.baseurl }}/assets/lectures/lec4-basis-functions.pdf)
+Mon Aug 28
+: **LEC 4**{: .label .label-grey }Basis Functions
 : **Quiz 1 Due**{: .label .label-red }
 
-Wed Aug 31
-: **LEC 5**{: .label .label-grey }[Lagrange Basis]({{ site.baseurl }}/assets/lectures/lec5-lagrange-basis.pdf)
+Wed Aug 30
+: **LEC 5**{: .label .label-grey }Lagrange Basis
 : **Quiz 2 Assigned**{: .label .label-yellow }
 
-Fri Sep 2
-: **Lab**{: .label .label-purple }[HW 2: Monomial and Lagrange Interpolation](https://classroom.github.com/a/3G4E69_d)
+Fri Sep 1
+: **Lab**{: .label .label-purple }[HW 2: Monomial and Lagrange Interpolation](https://classroom.github.com/a/Wlgs0zjY)
 : **HW 2 ASSIGNED**{: .label .label-yellow }**HW 1 due**{: .label .label-red }**Quiz 2 Due**{: .label .label-red }

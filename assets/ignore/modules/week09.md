@@ -2,14 +2,16 @@
 title: Week 9
 ---
 
-Mon Oct 17
+Mon Oct 16
+: **Lec 16**{: .label .label-grey }BVP (Spectral 1)
+    : BVP (Spectral 1) Supplementary Notes
+: **Lec 17**{: .label .label-grey }BVP (Spectral 2)
+    : BVP (Spectral 2) Supplementary Notes
+: **Project 1 (Individual) Due**{: .label .label-red }
+
+Wed Oct 18
 : **Lab**{: .label .label-purple }Project 1 (Group)
 
-Wed Oct 19
-: **Lec 16**{: .label .label-grey }[BVP (Spectral 1)]({{ site.baseurl }}/assets/lectures/lec16-bvp-spectral1.pdf)
-    : [BVP (Spectral 1) Supplementary Notes]({{ site.baseurl }}/assets/lectures/lec16-bvp-spectral1-notes.pdf)
-
-Fri Oct 21
-: **Lec 17**{: .label .label-grey }[BVP (Spectral 2)]({{ site.baseurl }}/assets/lectures/lec17-bvp-spectral2.pdf)
-    : [BVP (Spectral 2) Supplementary Notes]({{ site.baseurl }}/assets/lectures/lec17-bvp-spectral2-notes.pdf)
+Fri Oct 20
+: **Lab**{: .label .label-purple }Project 1 (Group)
 : **Quiz 8 Assigned**{: .label .label-yellow }

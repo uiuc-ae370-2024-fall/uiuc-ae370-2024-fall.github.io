@@ -1,8 +1,90 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: AE 370
+email: huytran1@illinois.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Website for AE 370 at the University of Illinois Urbana-Champaign.
+baseurl: "" # the subpath of your site, e.g. /blog
+# url: https://just-the-docs.github.io
+url: "https://uiuc-ae370-2023-fall.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  huytran1
+
+# Build settings
 theme: just-the-docs
+# plugins:
+#   - jekyll-feed
 
-url: https://just-the-docs.github.io
-
+# Theme settings
+# Aux links for upper right navigation link
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Campuswire":
+    - "https://campuswire.com/c/G7D9655C9/feed"
+  "GitHub":
+    - "https://github.com/uiuc-ae370-2023-fall"
+  "GitHub Classroom":
+    - "https://classroom.github.com/classrooms/142352779-uiuc-ae370-2023-fall"
+  "Gradescope":
+    - "https://www.gradescope.com/courses/574378"
+  "Lectures":
+    - "https://drive.google.com/drive/folders/15o-29HqD-i5DJmw_esA9Iz0TDOPIghiV?usp=sharing"
+  # "Media Space":
+  #   - "https://mediaspace.illinois.edu/channel/AE+598+2023+Spring/286337372"
+  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - /assets/ignore/
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

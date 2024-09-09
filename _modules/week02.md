@@ -10,5 +10,5 @@ Wed Sep 4
 : **Quiz 1 Due**{: .label .label-red }
 
 Fri Sep 6
-: **LEC 5**{: .label .label-grey }Lagrange Basis
+: No Class
 : **Quiz 2 Assigned**{: .label .label-yellow }

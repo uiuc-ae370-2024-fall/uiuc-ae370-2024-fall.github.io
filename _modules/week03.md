@@ -7,7 +7,7 @@ Mon Sep 9
 : **HW 1 due**{: .label .label-red }
 
 Wed Sep 11
-: **Lab**{: .label .label-purple }[HW 2: Monomial and Lagrange Interpolation]()
+: **Lab**{: .label .label-purple }[HW 2: Monomial and Lagrange Interpolation](https://classroom.github.com/a/ZXX8p157)
 : **HW 2 ASSIGNED**{: .label .label-yellow }**Quiz 2 Due**{: .label .label-red }
 
 Fri Sep 13

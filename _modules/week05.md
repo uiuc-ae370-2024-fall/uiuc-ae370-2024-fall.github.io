@@ -7,10 +7,10 @@ Mon Sep 23
 : **HW 4 Assigned**{: .label .label-yellow }**HW 3 Due**{: .label .label-red }**Quiz 4 Due**{: .label .label-red }
 
 Wed Sep 25
-: **LEC 10**{: .label .label-grey }Initial Value Problem
+: **LEC 9**{: .label .label-grey }Initial Value Problem
     : IVP Supplementary Notes
 
 Fri Sep 27
-: **LEC 11**{: .label .label-grey }Multi-step Methods
+: **LEC 10**{: .label .label-grey }Multi-step Methods
     : Multi-step Supplementary Notes
 : **Quiz 5 Assigned**{: .label .label-yellow }

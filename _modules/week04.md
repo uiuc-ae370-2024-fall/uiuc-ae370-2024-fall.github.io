@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Mon Sep 16
-: **Lab**{: .label .label-purple }[HW 3: Trignometric Interpolation]()
+: **Lab**{: .label .label-purple }[HW 3: Trignometric Interpolation](https://classroom.github.com/a/TKdLn8EP)
 : **HW 3 ASSIGNED**{: .label .label-yellow }**Quiz 3 Due**{: .label .label-red }
 
 Wed Sep 18

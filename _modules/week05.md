@@ -3,7 +3,7 @@ title: Week 5 (Initial Value Problem)
 ---
 
 Mon Sep 23
-: **Lab**{: .label .label-purple }[HW 4: Least Squares Approximation]()
+: **Lab**{: .label .label-purple }[HW 4: Least Squares Approximation](https://classroom.github.com/a/HBk-N54z)
 : **HW 4 Assigned**{: .label .label-yellow }**HW 3 Due**{: .label .label-red }**Quiz 4 Due**{: .label .label-red }
 
 Wed Sep 25

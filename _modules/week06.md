@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Mon Sep 30
-: **Lab**{: .label .label-purple }[HW 5: Initial Value Problem]()
+: **Lab**{: .label .label-purple }[HW 5: Initial Value Problem](https://classroom.github.com/a/svNB-jyK)
 : **HW 5 Assigned**{: .label .label-yellow }**HW 4 Due**{: .label .label-red }**Quiz 5 Due**{: .label .label-red }
 
 Wed Oct 2

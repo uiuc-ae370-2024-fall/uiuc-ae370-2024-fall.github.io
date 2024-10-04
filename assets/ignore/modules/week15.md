@@ -2,11 +2,11 @@
 title: Week 15
 ---
 
-Mon Nov 27
+Mon Dec 2
 : **Lab**{: .label .label-purple }Project 2 (Group)
 
-Wed Nov 29
+Wed Dec 4
 : **Lab**{: .label .label-purple }Project 2 (Group)
 
-Fri Dec 1
+Fri Dec 6
 : **Lab**{: .label .label-purple }Project 2 (Group)

@@ -11,6 +11,5 @@ Wed Oct 2
     : Error in IVPs Supplementary Notes
 
 Fri Oct 4
-: **LEC 12**{: .label .label-grey }Stiff IVPs
-    : Stiff IVPs Supplementary Notes
+: **LEC 11**{: .label .label-grey }Error in IVPs
 : **Quiz 6 Assigned**{: .label .label-yellow }

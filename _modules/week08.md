@@ -3,7 +3,7 @@ title: Week 8
 ---
 
 Mon Oct 14
-: **Lab**{: .label .label-purple }[Project 1 (Group)]()
+: **Lab**{: .label .label-purple }[Project 1 (Group)](https://classroom.github.com/a/MxZ7YkMt)
 : **Project 1 (Group) Assigned**{: .label .label-yellow }
 
 Wed Oct 16

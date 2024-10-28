@@ -3,7 +3,7 @@ title: Week 10
 ---
 
 Mon Oct 28
-: **Lab**{: .label .label-purple }[HW 6: Boundary Value Problem]()
+: **Lab**{: .label .label-purple }[HW 6: Boundary Value Problem](https://classroom.github.com/a/qXYlNHyY)
 : **HW 6 Assigned**{: .label .label-yellow }**Project 1 (Group) Due**{: .label .label-red }**Quiz 8 Due**{: .label .label-red }
 
 Wed Oct 30

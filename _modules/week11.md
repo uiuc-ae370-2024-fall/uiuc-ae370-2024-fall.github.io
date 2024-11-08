@@ -7,9 +7,9 @@ Mon Nov 4
 : **HW 7 Assigned**{: .label .label-yellow }**HW 6 Due**{: .label .label-red }**Quiz 9 Due**{: .label .label-red }
 
 Wed Nov 6
-: **Lec 19**{: .label .label-grey }IBVP (FD 1)
-    : IBVP (FD) Supplementary Notes
+: No Class (Fall Break)
 
 Fri Nov 8
-: **Lec 20**{: .label .label-grey }IBVP (FD 2)
+: **Lec 19**{: .label .label-grey }IBVP (FD 1)
+    : IBVP (FD) Supplementary Notes
 : **Quiz 10 Assigned**{: .label .label-yellow }**Project 1 Peer Review Due**{: .label .label-red }

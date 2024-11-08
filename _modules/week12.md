@@ -7,6 +7,7 @@ Mon Nov 11
 : **Project 2 (Individual) Assigned**{: .label .label-yellow }**Project 2 Team Survey Assigned**{: .label .label-yellow }**HW 7 Due**{: .label .label-red }**Quiz 10 Due**{: .label .label-red }
 
 Wed Nov 13
+: **Lec 20**{: .label .label-grey }IBVP (FD 2)
 : **Lec 21**{: .label .label-grey }IBVP (FEM)
 
 Fri Nov 15

@@ -7,7 +7,7 @@ Mon Nov 4
 : **HW 7 Assigned**{: .label .label-yellow }**HW 6 Due**{: .label .label-red }**Quiz 9 Due**{: .label .label-red }
 
 Wed Nov 6
-: No Class (Fall Break)
+: No Class
 
 Fri Nov 8
 : **Lec 19**{: .label .label-grey }IBVP (FD 1)

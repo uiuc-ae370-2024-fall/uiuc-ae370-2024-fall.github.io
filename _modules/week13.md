@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Mon Nov 18
-: **Lab**{: .label .label-purple }[Project 2 (Group)]()
+: **Lab**{: .label .label-purple }[Project 2 (Group)](https://classroom.github.com/a/_CGevKCm)
 : **Project 2 (Group) Assigned**{: .label .label-yellow }**Quiz 11 Due**{: .label .label-red }
 
 Wed Nov 20
